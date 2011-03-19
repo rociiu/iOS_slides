@@ -14,7 +14,7 @@
 
 - (id)initWithPageNumber:(int)page
 {
-    if (self = [super initWithNibName:@"SlideController" bundle:nil])
+    if (self = [super initWithNibName:@"Slide2" bundle:nil])
     {
         pageNumber = page;
     }

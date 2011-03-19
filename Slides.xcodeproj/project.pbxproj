@@ -18,9 +18,10 @@
 		D83D8708133455CA00127AB1 /* SlideController.m in Sources */ = {isa = PBXBuildFile; fileRef = D83D8706133455CA00127AB1 /* SlideController.m */; };
 		D83D8709133455CA00127AB1 /* SlideController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D83D8707133455CA00127AB1 /* SlideController.xib */; };
 		D83D8717133458A500127AB1 /* products.plist in Resources */ = {isa = PBXBuildFile; fileRef = D83D8716133458A500127AB1 /* products.plist */; };
-		D83D874913345EE600127AB1 /* presently.png in Resources */ = {isa = PBXBuildFile; fileRef = D83D874813345EE600127AB1 /* presently.png */; };
-		D83D874B13345F1C00127AB1 /* oil_reporter.png in Resources */ = {isa = PBXBuildFile; fileRef = D83D874A13345F1C00127AB1 /* oil_reporter.png */; };
-		D83D874D13345F2300127AB1 /* grubit.png in Resources */ = {isa = PBXBuildFile; fileRef = D83D874C13345F2300127AB1 /* grubit.png */; };
+		D83D882913349F2600127AB1 /* Slide2.xib in Resources */ = {isa = PBXBuildFile; fileRef = D83D882813349F2600127AB1 /* Slide2.xib */; };
+		D83D88351334A11600127AB1 /* presently.png in Resources */ = {isa = PBXBuildFile; fileRef = D83D88341334A11600127AB1 /* presently.png */; };
+		D83D88391334A1FD00127AB1 /* oil_reporter.png in Resources */ = {isa = PBXBuildFile; fileRef = D83D88381334A1FD00127AB1 /* oil_reporter.png */; };
+		D83D883B1334A20400127AB1 /* grubit.png in Resources */ = {isa = PBXBuildFile; fileRef = D83D883A1334A20400127AB1 /* grubit.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,9 +42,10 @@
 		D83D8706133455CA00127AB1 /* SlideController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SlideController.m; sourceTree = "<group>"; };
 		D83D8707133455CA00127AB1 /* SlideController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = SlideController.xib; path = Classes/SlideController.xib; sourceTree = "<group>"; };
 		D83D8716133458A500127AB1 /* products.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = products.plist; sourceTree = "<group>"; };
-		D83D874813345EE600127AB1 /* presently.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = presently.png; sourceTree = "<group>"; };
-		D83D874A13345F1C00127AB1 /* oil_reporter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = oil_reporter.png; sourceTree = "<group>"; };
-		D83D874C13345F2300127AB1 /* grubit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grubit.png; sourceTree = "<group>"; };
+		D83D882813349F2600127AB1 /* Slide2.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Slide2.xib; sourceTree = "<group>"; };
+		D83D88341334A11600127AB1 /* presently.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = presently.png; sourceTree = "<group>"; };
+		D83D88381334A1FD00127AB1 /* oil_reporter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = oil_reporter.png; sourceTree = "<group>"; };
+		D83D883A1334A20400127AB1 /* grubit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grubit.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,14 +107,15 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				D83D874C13345F2300127AB1 /* grubit.png */,
-				D83D874A13345F1C00127AB1 /* oil_reporter.png */,
+				D83D883A1334A20400127AB1 /* grubit.png */,
+				D83D88381334A1FD00127AB1 /* oil_reporter.png */,
+				D83D88341334A11600127AB1 /* presently.png */,
 				D83D8707133455CA00127AB1 /* SlideController.xib */,
 				2899E5210DE3E06400AC0155 /* SlidesViewController.xib */,
-				D83D874813345EE600127AB1 /* presently.png */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Slides-Info.plist */,
 				D83D8716133458A500127AB1 /* products.plist */,
+				D83D882813349F2600127AB1 /* Slide2.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -180,9 +183,10 @@
 				2899E5220DE3E06400AC0155 /* SlidesViewController.xib in Resources */,
 				D83D8709133455CA00127AB1 /* SlideController.xib in Resources */,
 				D83D8717133458A500127AB1 /* products.plist in Resources */,
-				D83D874913345EE600127AB1 /* presently.png in Resources */,
-				D83D874B13345F1C00127AB1 /* oil_reporter.png in Resources */,
-				D83D874D13345F2300127AB1 /* grubit.png in Resources */,
+				D83D882913349F2600127AB1 /* Slide2.xib in Resources */,
+				D83D88351334A11600127AB1 /* presently.png in Resources */,
+				D83D88391334A1FD00127AB1 /* oil_reporter.png in Resources */,
+				D83D883B1334A20400127AB1 /* grubit.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
