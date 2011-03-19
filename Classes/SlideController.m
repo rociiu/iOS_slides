@@ -55,6 +55,9 @@
 }
 
 - (void)viewDidUnload {
+	self.titleLabel = nil;
+	self.imageView = nil;
+	
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
@@ -62,6 +65,8 @@
 
 
 - (void)dealloc {
+	[titleLabel release];
+	[imageView release];
     [super dealloc];
 }
 

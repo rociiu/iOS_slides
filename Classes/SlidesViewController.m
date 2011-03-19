@@ -167,10 +167,19 @@ static NSString *ImageKey = @"imageKey";
 - (void)viewDidUnload {
 	// Release any retained subviews of the main view.
 	// e.g. self.myOutlet = nil;
+	self.scrollView = nil;
+	self.pageControl = nil;
+	self.viewControllers = nil;
+	self.contentList = nil;
+	[super viewDidUnload];
 }
 
 
 - (void)dealloc {
+	[scrollView release];
+	[pageControl release];
+	[viewControllers release];
+	[contentList release];
     [super dealloc];
 }
 

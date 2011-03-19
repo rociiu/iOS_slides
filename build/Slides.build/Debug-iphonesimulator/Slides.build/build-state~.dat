@@ -1,328 +1,0 @@
-TSlides
-v7
-r0
-t322198435.701975
-cCheck dependencies
-cProcessInfoPlistFile /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Info.plist Slides-Info.plist
-cCompileXIB /Users/roc/Desktop/ios_practices/Slides/MainWindow.xib
-cCompileXIB /Users/roc/Desktop/ios_practices/Slides/SlidesViewController.xib
-cCompileXIB /Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.xib
-cCopyPlistFile /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/products.plist products.plist
-cProcessPCH /var/folders/Sx/SxjX6-muFraj-BGPagOIXE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Slides_Prefix-fkolmvponnyayahlgjiimavdrbkf/Slides_Prefix.pch.gch Slides_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/main.o /Users/roc/Desktop/ios_practices/Slides/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlidesAppDelegate.o /Users/roc/Desktop/ios_practices/Slides/Classes/SlidesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlidesViewController.o /Users/roc/Desktop/ios_practices/Slides/Classes/SlidesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlideController.o /Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides normal i386
-cGenerateDSYMFile /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app.dSYM /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides
-cTouch /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
-c000000004CC128950000000000000110
-t1287727253
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC12246000000000029B310
-t1287725638
-s2732816
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC1226D000000000029D5D0
-t1287725677
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC1225F0000000000001466
-t1287725663
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC1281F0000000000000AA1
-t1287727135
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC12883000000000074D7B0
-t1287727235
-s7657392
-
-N/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.h
-c000000004D84235B00000000000001B9
-t1300505435
-s441
-i<UIKit/UIKit.h>
-
-N/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m
-c000000004D841E4A0000000000000599
-t1300504138
-s1433
-i"SlideController.h"
-
-N/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.xib
-c000000004D8423C60000000000004EDA
-t1300505542
-s20186
-
-N/Users/roc/Desktop/ios_practices/Slides/Classes/SlidesAppDelegate.h
-c000000004D84183700000000000001D0
-t1300502583
-s464
-i<UIKit/UIKit.h>
-
-N/Users/roc/Desktop/ios_practices/Slides/Classes/SlidesAppDelegate.m
-c000000004D8418370000000000000A87
-t1300502583
-s2695
-i"SlidesAppDelegate.h"
-i"SlidesViewController.h"
-
-N/Users/roc/Desktop/ios_practices/Slides/Classes/SlidesViewController.h
-c000000004D84241A0000000000000218
-t1300505626
-s536
-i<UIKit/UIKit.h>
-
-N/Users/roc/Desktop/ios_practices/Slides/Classes/SlidesViewController.m
-c000000004D84241C00000000000005EB
-t1300505628
-s1515
-i"SlidesViewController.h"
-
-N/Users/roc/Desktop/ios_practices/Slides/MainWindow.xib
-c000000004D8418370000000000004E1D
-t1300502583
-s19997
-
-N/Users/roc/Desktop/ios_practices/Slides/SlidesViewController.xib
-c000000004D8422CC0000000000005DD9
-t1300505292
-s24025
-
-N/Users/roc/Desktop/ios_practices/Slides/Slides_Prefix.pch
-c000000004D84183700000000000000B5
-t1300502583
-s181
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app
-t1300505635
-s306
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app.dSYM
-t1300505635
-s102
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Info.plist
-t1300505629
-s587
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/MainWindow.nib
-t1300505630
-s1121
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/PkgInfo
-t1300505629
-s8
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/SlideController.nib
-t1300505630
-s1404
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides
-t1300505635
-s19388
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/SlidesViewController.nib
-t1300505630
-s1976
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/products.plist
-t1300505630
-s161
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlideController.o
-t1300505634
-s38396
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/Slides.LinkFileList
-c000000004D84241D000000000000020C
-t1300505629
-s524
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlidesAppDelegate.o
-t1300505634
-s51204
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlidesViewController.o
-t1300505634
-s43988
-
-N/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/main.o
-t1300505634
-s6304
-
-N/Users/roc/Desktop/ios_practices/Slides/main.m
-c000000004D841837000000000000015F
-t1300502583
-s351
-i<UIKit/UIKit.h>
-
-N/Users/roc/Desktop/ios_practices/Slides/products.plist
-c000000004D842249000000000000022B
-t1300505161
-s555
-
-N/var/folders/Sx/SxjX6-muFraj-BGPagOIXE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Slides_Prefix-fkolmvponnyayahlgjiimavdrbkf/Slides_Prefix.pch.gch
-t1300505633
-s15453392
-
-NSlides-Info.plist
-c000000004D841837000000000000038D
-t1300502583
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies322198429#322198429#0(0"0(0#1#0"8616652128#0"0#
-
-CCompileC build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlideController.o /Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322198434.539791
-e322198434.639545
-r1
-xCompileC
-xbuild/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlideController.o
-x/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m:59: warning: property 'titleLabel' requires method '-titleLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
-o/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m:59: warning: property 'titleLabel' requires the method 'setTitleLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
-o/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m:59: warning: property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation
-o/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m:59: warning: property 'imageView' requires the method 'setImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation
-o/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.h:11: warning: 'kNumberOfPages' defined but not used
-lSLF07#2@73"Compile /Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m322198434#322198434#0(959"/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m:59: warning: property 'titleLabel' requires method '-titleLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m:59: warning: property 'titleLabel' requires the method 'setTitleLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m:59: warning: property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m:59: warning: property 'imageView' requires the method 'setImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.h:11: warning: 'kNumberOfPages' defined but not used5(22@128"Property 'titleLabel' requires method '-titleLabel' to be defined - use @synthesize, @dynamic or provide a method implementation322198434#0#208#0(6@65"/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m322196938#59#0#59#0#0"0(22@135"Property 'titleLabel' requires the method 'setTitleLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation322198434#208#215#0(6@65"/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m322196938#59#0#59#0#0"0(22@126"Property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation322198434#423#206#0(6@65"/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m322196938#59#0#59#0#0"0(22@133"Property 'imageView' requires the method 'setImageView:' to be defined - use @synthesize, @dynamic or provide a method implementation322198434#629#213#0(6@65"/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m322196938#59#0#59#0#0"0(22@37"'kNumberOfPages' defined but not used322198434#842#117#0(6@65"/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.h322198235#11#0#11#0#24"'*' defined but not used0(0#0#65"/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m8617195072#1935"    cd /Users/roc/Desktop/ios_practices/Slides    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-generated-files.hmap -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-own-target-headers.hmap -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-all-target-headers.hmap -iquote /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-project-headers.hmap -F/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator -I/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/include -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/DerivedSources/i386 -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/DerivedSources -include /var/folders/Sx/SxjX6-muFraj-BGPagOIXE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Slides_Prefix-fkolmvponnyayahlgjiimavdrbkf/Slides_Prefix.pch -c /Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.m -o /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlideController.o0#
-
-CCompileC build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlidesAppDelegate.o /Users/roc/Desktop/ios_practices/Slides/Classes/SlidesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322198434.258296
-e322198434.539693
-r1
-xCompileC
-xbuild/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlidesAppDelegate.o
-x/Users/roc/Desktop/ios_practices/Slides/Classes/SlidesAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@75"Compile /Users/roc/Desktop/ios_practices/Slides/Classes/SlidesAppDelegate.m322198434#322198434#0(0"0(0#0#67"/Users/roc/Desktop/ios_practices/Slides/Classes/SlidesAppDelegate.m8621179840#1939"    cd /Users/roc/Desktop/ios_practices/Slides    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-generated-files.hmap -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-own-target-headers.hmap -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-all-target-headers.hmap -iquote /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-project-headers.hmap -F/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator -I/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/include -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/DerivedSources/i386 -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/DerivedSources -include /var/folders/Sx/SxjX6-muFraj-BGPagOIXE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Slides_Prefix-fkolmvponnyayahlgjiimavdrbkf/Slides_Prefix.pch -c /Users/roc/Desktop/ios_practices/Slides/Classes/SlidesAppDelegate.m -o /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlidesAppDelegate.o0#
-
-CCompileC build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlidesViewController.o /Users/roc/Desktop/ios_practices/Slides/Classes/SlidesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322198434.535087
-e322198434.640791
-r1
-xCompileC
-xbuild/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlidesViewController.o
-x/Users/roc/Desktop/ios_practices/Slides/Classes/SlidesViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@78"Compile /Users/roc/Desktop/ios_practices/Slides/Classes/SlidesViewController.m322198434#322198434#0(0"0(0#0#70"/Users/roc/Desktop/ios_practices/Slides/Classes/SlidesViewController.m8617822880#1945"    cd /Users/roc/Desktop/ios_practices/Slides    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-generated-files.hmap -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-own-target-headers.hmap -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-all-target-headers.hmap -iquote /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-project-headers.hmap -F/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator -I/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/include -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/DerivedSources/i386 -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/DerivedSources -include /var/folders/Sx/SxjX6-muFraj-BGPagOIXE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Slides_Prefix-fkolmvponnyayahlgjiimavdrbkf/Slides_Prefix.pch -c /Users/roc/Desktop/ios_practices/Slides/Classes/SlidesViewController.m -o /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/SlidesViewController.o0#
-
-CCompileC build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/main.o /Users/roc/Desktop/ios_practices/Slides/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322198434.257005
-e322198434.534987
-r1
-xCompileC
-xbuild/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/main.o
-x/Users/roc/Desktop/ios_practices/Slides/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@54"Compile /Users/roc/Desktop/ios_practices/Slides/main.m322198434#322198434#0(0"0(0#0#46"/Users/roc/Desktop/ios_practices/Slides/main.m8621311328#1905"    cd /Users/roc/Desktop/ios_practices/Slides    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-generated-files.hmap -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-own-target-headers.hmap -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-all-target-headers.hmap -iquote /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-project-headers.hmap -F/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator -I/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/include -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/DerivedSources/i386 -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/DerivedSources -include /var/folders/Sx/SxjX6-muFraj-BGPagOIXE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Slides_Prefix-fkolmvponnyayahlgjiimavdrbkf/Slides_Prefix.pch -c /Users/roc/Desktop/ios_practices/Slides/main.m -o /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.xib
-s322198430.368073
-e322198430.792040
-r1
-xCompileXIB
-x/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.xib
-lSLF07#2@38"CompileXIB Classes/SlideController.xib322198430#322198430#0(0"0(0#0#67"/Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.xib8621359872#590"    cd /Users/roc/Desktop/ios_practices/Slides    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/SlideController.nib /Users/roc/Desktop/ios_practices/Slides/Classes/SlideController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/roc/Desktop/ios_practices/Slides/MainWindow.xib
-s322198429.926489
-e322198430.367984
-r1
-xCompileXIB
-x/Users/roc/Desktop/ios_practices/Slides/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib322198429#322198430#0(0"0(0#0#54"/Users/roc/Desktop/ios_practices/Slides/MainWindow.xib8616496544#572"    cd /Users/roc/Desktop/ios_practices/Slides    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/MainWindow.nib /Users/roc/Desktop/ios_practices/Slides/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/roc/Desktop/ios_practices/Slides/SlidesViewController.xib
-s322198429.944860
-e322198430.481695
-r1
-xCompileXIB
-x/Users/roc/Desktop/ios_practices/Slides/SlidesViewController.xib
-lSLF07#2@35"CompileXIB SlidesViewController.xib322198429#322198430#0(0"0(0#0#64"/Users/roc/Desktop/ios_practices/Slides/SlidesViewController.xib8616146464#592"    cd /Users/roc/Desktop/ios_practices/Slides    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/SlidesViewController.nib /Users/roc/Desktop/ios_practices/Slides/SlidesViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCopyPlistFile /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/products.plist products.plist
-s322198430.481787
-e322198430.643860
-r1
-xCopyPlistFile
-x/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/products.plist
-xproducts.plist
-lSLF07#2@19"Copy products.plist322198430#322198430#0(0"0(0#0#54"/Users/roc/Desktop/ios_practices/Slides/products.plist8620535520#390"    cd /Users/roc/Desktop/ios_practices/Slides    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 products.plist --outdir /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app0#
-
-CGenerateDSYMFile /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app.dSYM /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides
-s322198435.520138
-e322198435.685133
-r1
-xGenerateDSYMFile
-x/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app.dSYM
-x/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides
-lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Slides.app.dSYM build/Debug-iphonesimulator/Slides.app/Slides322198435#322198435#0(0"0(0#0#85"/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides8620049472#383"    cd /Users/roc/Desktop/ios_practices/Slides    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides -o /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app.dSYM0#
-
-CLd /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides normal i386
-s322198434.640870
-e322198435.520030
-r1
-xLd
-x/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides
-xnormal
-xi386
-lSLF07#2@90"Link /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides322198434#322198435#0(0"0(0#0#0"8616580800#900"    cd /Users/roc/Desktop/ios_practices/Slides    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator -F/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator -filelist /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Objects-normal/i386/Slides.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Slides0#
-
-CProcessInfoPlistFile /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Info.plist Slides-Info.plist
-s322198429.875506
-e322198429.926403
-r1
-xProcessInfoPlistFile
-x/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Info.plist
-xSlides-Info.plist
-lSLF07#2@25"Process Slides-Info.plist322198429#322198429#0(0"0(0#0#57"/Users/roc/Desktop/ios_practices/Slides/Slides-Info.plist29273878621126700#479"    cd /Users/roc/Desktop/ios_practices/Slides    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Slides-Info.plist -genpkginfo /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app/Info.plist0#
-
-CProcessPCH /var/folders/Sx/SxjX6-muFraj-BGPagOIXE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Slides_Prefix-fkolmvponnyayahlgjiimavdrbkf/Slides_Prefix.pch.gch Slides_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s322198430.792223
-e322198434.256861
-r1
-xProcessPCH
-x/var/folders/Sx/SxjX6-muFraj-BGPagOIXE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Slides_Prefix-fkolmvponnyayahlgjiimavdrbkf/Slides_Prefix.pch.gch
-xSlides_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@28"Precompile Slides_Prefix.pch322198430#322198434#0(0"0(0#0#57"/Users/roc/Desktop/ios_practices/Slides/Slides_Prefix.pch8617189216#1797"    cd /Users/roc/Desktop/ios_practices/Slides    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-generated-files.hmap -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-own-target-headers.hmap -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-all-target-headers.hmap -iquote /Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/Slides-project-headers.hmap -F/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator -I/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/include -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/DerivedSources/i386 -I/Users/roc/Desktop/ios_practices/Slides/build/Slides.build/Debug-iphonesimulator/Slides.build/DerivedSources -c /Users/roc/Desktop/ios_practices/Slides/Slides_Prefix.pch -o /var/folders/Sx/SxjX6-muFraj-BGPagOIXE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Slides_Prefix-fkolmvponnyayahlgjiimavdrbkf/Slides_Prefix.pch.gch0#
-
-CTouch /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app
-s322198435.685216
-e322198435.701921
-r1
-xTouch
-x/Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app
-lSLF07#2@84"Touch /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app322198435#322198435#0(0"0(0#0#0"8617784000#279"    cd /Users/roc/Desktop/ios_practices/Slides    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/roc/Desktop/ios_practices/Slides/build/Debug-iphonesimulator/Slides.app0#
-
