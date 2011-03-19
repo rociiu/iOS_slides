@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>nameKey</key>
+		<string>Presently</string>
+		<key>imageKey</key>
+		<string>presently.png</string>
+	</dict>
+	<dict>
+		<key>nameKey</key>
+		<string>OilReporter</string>
+		<key>imageKey</key>
+		<string>oil_reporter.png</string>
+	</dict>
+	<dict>
+		<key>nameKey</key>
+		<string>GrubIt</string>
+		<key>imageKey</key>
+		<string>grubit.png</string>
+	</dict>
+</array>
+</plist>
